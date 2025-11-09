@@ -2,7 +2,7 @@
 
 Name:           bazaar
 # renovate: datasource=github-releases depName=kolunmi/bazaar
-Version:        0.5.6
+Version:        0.5.9
 Release:        3%{?dist}
 Summary:        Flatpak-centric software center and app store
 
